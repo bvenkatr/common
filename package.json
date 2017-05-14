@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bvenkatr/common.git",
+  "author": "venkat <bvenkatr2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "npm-release": "^1.0.0"
+  }
+}
